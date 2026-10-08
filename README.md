@@ -1,7 +1,4 @@
-[readme_reeditado_estilo_mainframe_neon.md](https://github.com/user-attachments/files/33186798/readme_reeditado_estilo_mainframe_neon.md)
-<div align="center">
 
-<!-- MAIN ANIMATED TITLE SVG -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" width="100%">
   <defs>
     <style>
