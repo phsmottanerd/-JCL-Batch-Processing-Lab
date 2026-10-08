@@ -291,4 +291,24 @@ jcl-batch-processing-lab/
 
 **END OF LAB**
 
-</div>
+
+<img width="1010" height="496" alt="TSO2" src="https://github.com/user-attachments/assets/06eb0d7d-53d3-4645-8258-8f5e850baa2d" />
+<img width="1046" height="385" alt="CJL-24" src="https://github.com/user-attachments/assets/9652c0c7-69ca-4f65-a485-6be349585d8b" />
+<img width="1063" height="502" alt="JCL022" src="https://github.com/user-attachments/assets/2100cdc7-445b-454c-874a-328e02b20584" />
+<img width="1066" height="498" alt="JCL010" src="https://github.com/user-attachments/assets/6a097b74-273c-42f2-a8ea-15eaff5e275f" />
+<img width="1051" height="285" alt="JSL 014" src="https://github.com/user-attachments/assets/cd1b56ec-acb5-4978-be30-681492a7c7ae" />
+<img width="1066" height="498" alt="JCL010" src="https://github.com/user-attachments/assets/106ecd57-f3cc-4296-aebc-dc07497780d3" />
+<img width="1045" height="502" alt="ccl04" src="https://github.com/user-attachments/assets/b9aa772d-7e49-488a-9527-e6ba880ec889" />
+<img width="1018" height="377" alt="JCL030" src="https://github.com/user-attachments/assets/45e96c5d-56cf-40e4-ace1-cf850599b885" />
+<img width="1046" height="385" alt="CJL-24" src="https://github.com/user-attachments/assets/d940f59f-07bb-49fe-ab5a-f95432541197" />
+<img width="1066" height="498" alt="JCL010" src="https://github.com/user-attachments/assets/1bd109e5-4c5d-498b-be80-16668617a826" />
+
+
+
+
+
+
+
+
+
+
